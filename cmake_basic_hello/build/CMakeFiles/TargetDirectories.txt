@@ -1,0 +1,3 @@
+/home/jinie/Desktop/jinie/cmake_practice/build/CMakeFiles/hello.dir
+/home/jinie/Desktop/jinie/cmake_practice/build/CMakeFiles/edit_cache.dir
+/home/jinie/Desktop/jinie/cmake_practice/build/CMakeFiles/rebuild_cache.dir
