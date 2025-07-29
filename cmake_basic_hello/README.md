@@ -17,7 +17,7 @@ CMakeLists.txt -> CMake -> Makefile -> Make
 
 # Build Instructions
 ```
-mkdir build && build
+mkdir build && cd build
 cmake ..
 make
 ./hello
