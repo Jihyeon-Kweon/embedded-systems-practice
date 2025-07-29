@@ -6,7 +6,7 @@ This is a simple "Hello, World!" project to practice the full build flow using C
 ```
 CMakeLists.txt -> CMake -> Makefile -> Make
 ```
-1. CMakeLists.txt (CMake input)/n
+1. CMakeLists.txt (CMake input)\n
   : to describe a project: source files, dependencies, targets
 2. CMake (Build system generator)
    : to generate platform-specific build files (Makefile, VS studio files ..)
