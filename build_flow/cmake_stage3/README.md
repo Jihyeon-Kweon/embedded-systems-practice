@@ -1,4 +1,5 @@
-# modular and reusable builds
+# Goal: Add a library + link it
+(starting to look like IMMERSE BSP style)
 
 Commands
 1. add_library(mathlib libmath/add.c)
